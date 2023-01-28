@@ -1,1 +1,19 @@
-# Machine-Learning-Data-Science-en-Python-Teoria-y-practica.
+# Machine Learning.
+
+## Syllabus
+* 
+
+## libros
+* 
+
+## Revistas, link e información adicional de R
+* 
+
+## Enlaces de data set
+* 
+
+## Cursos Online
+*
+
+## Revistas de investigación y papers
+* 
